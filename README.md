@@ -1,6 +1,6 @@
 # Ubuntu Good Practice
 
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" />
 
 The best configurations and practices on my Ubuntu Linux to record!
 
